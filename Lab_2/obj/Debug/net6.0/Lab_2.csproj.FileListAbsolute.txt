@@ -1,0 +1,15 @@
+D:\Nastia\ш\Semester 2\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.exe
+D:\Nastia\ш\Semester 2\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.deps.json
+D:\Nastia\ш\Semester 2\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.runtimeconfig.json
+D:\Nastia\ш\Semester 2\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.dll
+D:\Nastia\ш\Semester 2\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.pdb
+D:\Nastia\ш\Semester 2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.csproj.AssemblyReference.cache
+D:\Nastia\ш\Semester 2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nastia\ш\Semester 2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfoInputs.cache
+D:\Nastia\ш\Semester 2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfo.cs
+D:\Nastia\ш\Semester 2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.csproj.CoreCompileInputs.cache
+D:\Nastia\ш\Semester 2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.dll
+D:\Nastia\ш\Semester 2\Lab_2\Lab_2\obj\Debug\net6.0\refint\Lab_2.dll
+D:\Nastia\ш\Semester 2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.pdb
+D:\Nastia\ш\Semester 2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.genruntimeconfig.cache
+D:\Nastia\ш\Semester 2\Lab_2\Lab_2\obj\Debug\net6.0\ref\Lab_2.dll
